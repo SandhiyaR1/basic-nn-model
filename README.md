@@ -30,6 +30,7 @@ Include the neural network model diagram.
 
 ### PROGRAM
 
+
 ```
  Name: SANDHIYA R
 
@@ -73,6 +74,7 @@ n=scaler.transform(n)
 model.predict(n)
 ```
 ### Dataset Information
+
 #### DATASET.HEAD():
 ![image](https://github.com/user-attachments/assets/ec7b839f-d7e4-4216-a11b-11588541a75e)
 #### DATASET.INFO()
