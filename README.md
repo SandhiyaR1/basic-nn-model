@@ -39,12 +39,11 @@ Train the model with the training data.
 Plot the performance plot
 
 ### STEP 7:
-
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name:SANDHIYA R
+### Register Number:212222230129
 ```python
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -89,36 +88,18 @@ model.predict(n)
 ### DATASET.DESCRIBE()
 ![image](https://github.com/user-attachments/assets/38303258-78bc-49e5-b083-e7d70f8c85ce)
 
-![image](https://github.com/user-attachments/assets/19a18a26-8aff-46c1-b99d-4c558a2e4a1b)
-
-![image](https://github.com/user-attachments/assets/8130235b-7e53-4000-bfaa-f2b7b5171024)
-
-![image](https://github.com/user-attachments/assets/6a6f3843-d470-475c-9530-c6e0de294a23)
-
-![image](https://github.com/user-attachments/assets/89054004-5ebc-46ab-9f6d-15cdaaa76869)
-
-### Data Prediction:
-
-![image](https://github.com/user-attachments/assets/925d3dea-d77d-463c-84ad-04a0f0782e66)
-
-
-
-
-
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-
-Include your plot here
+![image](https://github.com/user-attachments/assets/6a6f3843-d470-475c-9530-c6e0de294a23)
 
 ### Test Data Root Mean Squared Error
-
-Find the test data root mean squared error
+![image](https://github.com/user-attachments/assets/89054004-5ebc-46ab-9f6d-15cdaaa76869)
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/925d3dea-d77d-463c-84ad-04a0f0782e66)
 
 ## RESULT
 
-Include your result here
+Thus a neural network regression model for the given dataset is developed and the prediction for the given input is obtained accurately.
