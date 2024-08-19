@@ -30,12 +30,8 @@ Include the neural network model diagram.
 
 ### PROGRAM
 
-
-```
- Name: SANDHIYA R
-
- Register Number: 212222230129
-```
+#### Name: SANDHIYA R
+#### Register Number: 212222230129
 
 ```python
 import pandas as pd
